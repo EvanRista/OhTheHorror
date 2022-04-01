@@ -7,8 +7,13 @@ A game where you play as a person seeking true power by gathering and sacrificin
 - Upgradeable to get more souls
 - Added Pause Menu
 - Added screen for cultist management
-- Added Save Data
-- Added clear data!
+
+**Planned Features**
+- Saving data to Persist between play sessions 
+- Ability to delete saved data 
+- Import art assets
+- Developing a sountrack 
+- Producing and importing sound effects for button presses and other actions 
 
 ![Screen Shot 2022-04-01 at 2 16 20 PM](https://user-images.githubusercontent.com/98774992/161329051-a65228a5-f112-46f1-938c-b526e4d73986.png)
 
