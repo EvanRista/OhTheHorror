@@ -8,4 +8,4 @@ A game where you play as a person seeking true power by gathering and sacrificin
 - Added screen for cultist management
 - Added Save Data
 - Added clear data!
-![Oh Horror of Horror]https://user-images.githubusercontent.com/98774992/161327208-fa68d38e-3261-4f60-aa57-f4162b612dd3.gif
+![backgroundLightClouds](https://user-images.githubusercontent.com/98774992/161328295-24a88593-8be9-4b08-b3fe-2915481a0d59.png)
