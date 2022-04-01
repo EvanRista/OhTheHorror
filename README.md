@@ -15,5 +15,3 @@ A game where you play as a person seeking true power by gathering and sacrificin
 ![Screen Shot 2022-04-01 at 2 15 52 PM](https://user-images.githubusercontent.com/98774992/161329029-95bc8c52-f3f3-4889-a909-0a2309985795.png)
 
 ![Screen Shot 2022-04-01 at 2 16 02 PM](https://user-images.githubusercontent.com/98774992/161329061-58707ce5-0e5c-4a78-8661-ae005a228012.png)
-
-![Screen Shot 2022-04-01 at 2 16 09 PM](https://user-images.githubusercontent.com/98774992/161329084-d8eca317-f6a3-4897-8e16-ff9c2198fa24.png)
