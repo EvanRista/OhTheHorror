@@ -8,4 +8,4 @@ A game where you play as a person seeking true power by gathering and sacrificin
 - Added screen for cultist management
 - Added Save Data
 - Added clear data!
-- [backgroundLightClouds](https://user-images.githubusercontent.com/98774992/161327208-fa68d38e-3261-4f60-aa57-f4162b612dd3.gif)
+- https://user-images.githubusercontent.com/98774992/161327208-fa68d38e-3261-4f60-aa57-f4162b612dd3.gif
